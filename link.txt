@@ -1,0 +1,54 @@
+ttps://www.youtube.com/watch?v=snCP3c7wXw0
+
+https://www.youtube.com/watch?v=3Tn58KQvWtU
+
+https://localhost/api/w/starter/jobs/run/p/u/admin/aws_vpc
+https://www.youtube.com/watch?v=CLkl40efxuA
+
+
+Host *.github.com
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/.ssh/id_rsa
+  
+  
+  curl -v -H 'Content-Type: application/json' -H "Authorization: Bearer ALOcHkLwMutBRZTzKYzfdsEaKAR2ZK" -X POST -d '{"cidrBlock":"20.0.0.0/16"}' 'http://localhost/api/w/starter/jobs/run/p/u/admin/aws_vpc'
+  
+curl -v -H 'Content-Type: application/json'  -X POST -d '{"cidrBlock":"20.0.0.0/16"}' 'https://localhost/api/w/starter/jobs/run/h/6bcf6d1d303735d2token=ALOcHkLwMutBRZTzKYzfdsEaKAR2ZK' --cacert /Users/bantwal/cert/CA/localhost/localhost.crt
+
+curl -v -H 'Content-Type: application/json'  -X POST -d '{"cidrBlock":"20.0.0.0/16"}' 'localhost/api/w/starter/jobs/run/h/6bcf6d1d303735d2token=ALOcHkLwMutBRZTzKYzfdsEaKAR2ZK' --cacert /Users/bantwal/cert/CA/localhost/localhost.crt
+
+
+
+
+MdO90X7LFynQr9RobOTF8Qkv32Ecjt
+
+
+curl -v -H 'Content-Type: application/json' -H "Authorization: Bearer $MdO90X7LFynQr9RobOTF8Qkv32Ecjt" -X POST -d '{"cidrBlock":"12.12.12"}' https://app.windmill.dev/api/w/cloud-control/jobs/run/p/u/paihari/my_script
+
+
+
+https://localhost/api/w/starter/jobs/run/p/u/admin/aws_vpc
+
+ExecutionErr: qemu-x86_64: Could not open '/lib64/ld-linux-x86-64.so.2': No such file or directory
+
+
+
+curl -H 'Content-Type: application/json' -H "Authorization: Bearer ALOcHkLwMutBRZTzKYzfdsEaKAR2ZK" -X POST -d '{"cidrBlock":""}' http://localhost/api/w/starter/jobs/run/p/u/admin/aws_vpc
+
+
+
+https://dev.to/ibrarturi/how-to-test-webhooks-on-your-localhost-3b4f
+
+https://dashboard.ngrok.com/get-started/setup
+
+2LBadEnuHsL0nslMQnWagQIUHtW_5XJiVHNEdYqm9CTdipZaZ
+ngrok config add-authtoken 2LBadEnuHsL0nslMQnWagQIUHtW_5XJiVHNEdYqm9CTdipZaZ
+
+
+
+ngrok http localhost:8000 --host-header=pai.dev 
+
+
+curl -v -H 'Content-Type: application/json' -H "Authorization: Bearer ALOcHkLwMutBRZTzKYzfdsEaKAR2ZK" -X POST -d '{"cidrBlock":"7.0.0.0/16"}' https://600e-62-2-177-133.eu.ngrok.io/api/w/starter/jobs/run/p/u/admin/aws_vpc
+
