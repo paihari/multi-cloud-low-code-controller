@@ -13,6 +13,7 @@
 > user : admin@windmill.dev
 > password: changeme
 
+# Example Screen Shots
 
 ## Cloud Script Home
 
