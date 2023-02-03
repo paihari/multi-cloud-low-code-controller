@@ -12,3 +12,13 @@ How to test
 Login Credentails for Application
 > user : admin@windmill.dev
 > password: changeme
+
+
+Script Home
+
+![Alt text](/images/Snip20230203_2.png?raw=true "Script Output")
+
+Script Output
+
+![Alt text](/images/Snip20230203_1.png?raw=true "Script Output")
+
