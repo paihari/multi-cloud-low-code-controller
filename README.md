@@ -1,4 +1,4 @@
-# cloud-service-controller
+# Cloud Service Controller
 
 ## How to run
 > docker compose up
