@@ -18,7 +18,7 @@ func main(cidrBlock string) (interface{}, error) {
 		log.Fatal(err)
 	}
 
-	// Create an Amazon S3 service client
+	
 	client := ec2.NewFromConfig(cfg)
 
 	output, err := client.CreateVpc(context.TODO(), &ec2.CreateVpcInput{
