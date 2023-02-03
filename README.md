@@ -8,3 +8,7 @@ Pre-requisite
 
 How to test
 > webbrowser: localhost or URL mentioned in .env file
+
+Login Credentails for Application
+> user : admin@windmill.dev
+> password: changeme
