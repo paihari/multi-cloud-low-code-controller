@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-type": "application/typescript; charset=utf-8",
+    "age": "88315",
+    "server": "deno/gcp-europe-west6",
+    "x-cache": "Hit from cloudfront",
+    "content-length": "1061",
+    "vary": "Accept-Encoding, Origin",
+    "cache-control": "public, max-age=31536000, immutable",
+    "via": "http/2 edgeproxy",
+    "x-amz-cf-pop": "ZRH50-C1",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-amz-replication-status": "COMPLETED",
+    "x-amz-version-id": "oC3eDPCPN__WmbIqDkBzZt8iBiuqQuIx",
+    "date": "Thu, 02 Feb 2023 11:18:22 GMT",
+    "last-modified": "Tue, 31 Jan 2023 19:03:51 GMT",
+    "accept-ranges": "bytes",
+    "etag": "\"aa04c1aae6207209b63b40ab4a9c1d5f\"",
+    "access-control-allow-origin": "*",
+    "x-amz-cf-id": "EzbnIUiq1ys22r2od4uFoMb2InwZDlLFDOQ4gElLjKtTgfdswM2b3w=="
+  },
+  "url": "https://deno.land/x/windmill@v1.61.1/windmill-api/models/AuditLog.ts",
+  "now": {
+    "secs_since_epoch": 1675425016,
+    "nanos_since_epoch": 406522378
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "via": "http/2 edgeproxy-h",
+    "server": "deno/gcp-europe-west6",
+    "vary": "Accept-Encoding",
+    "location": "/x/long@v1.0.0/mod.ts",
+    "x-deno-warning": "Implicitly using latest version (v1.0.0) for https://deno.land/x/long/mod.ts",
+    "access-control-allow-origin": "*",
+    "date": "Fri, 03 Feb 2023 11:50:17 GMT"
+  },
+  "url": "https://deno.land/x/long/mod.ts",
+  "now": {
+    "secs_since_epoch": 1675425017,
+    "nanos_since_epoch": 997159753
+  }
+}

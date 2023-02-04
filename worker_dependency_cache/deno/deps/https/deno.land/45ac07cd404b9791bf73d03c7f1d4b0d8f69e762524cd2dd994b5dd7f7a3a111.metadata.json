@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "server": "deno/gcp-europe-west6",
+    "last-modified": "Thu, 02 Feb 2023 13:30:17 GMT",
+    "x-cache": "Hit from cloudfront",
+    "content-length": "4399",
+    "date": "Thu, 02 Feb 2023 13:41:09 GMT",
+    "etag": "\"3c930e9f34135882e0e2a62788dadd37\"",
+    "age": "79751",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-cf-id": "bxYU-2V3MCJnNYW_EMrFtjt_Kt_1xUI9sLP64vCG9HKeNkSz-jqLlA==",
+    "content-type": "application/typescript; charset=utf-8",
+    "vary": "Accept-Encoding, Origin",
+    "x-amz-cf-pop": "ZRH50-C1",
+    "x-amz-version-id": "LtlsoRbi82UtsZWUZiJwHRp.HN4k1zAs",
+    "via": "http/2 edgeproxy-h",
+    "x-amz-replication-status": "PENDING",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://deno.land/std@0.176.0/node/internal/crypto/sig.ts",
+  "now": {
+    "secs_since_epoch": 1675425019,
+    "nanos_since_epoch": 419240421
+  }
+}

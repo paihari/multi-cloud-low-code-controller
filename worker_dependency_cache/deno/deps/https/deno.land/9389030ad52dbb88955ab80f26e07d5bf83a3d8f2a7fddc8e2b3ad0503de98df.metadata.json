@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-version-id": "iZvTAgvYPNgVOcWavYDoOis2tjLbSeQE",
+    "x-amz-replication-status": "COMPLETED",
+    "last-modified": "Tue, 31 Jan 2023 19:03:51 GMT",
+    "x-cache": "Hit from cloudfront",
+    "age": "88315",
+    "via": "http/2 edgeproxy",
+    "content-length": "3980",
+    "content-type": "application/typescript; charset=utf-8",
+    "etag": "\"13ab83f6ffc55d8d25ebe951d8abbf14\"",
+    "access-control-allow-origin": "*",
+    "server": "deno/gcp-europe-west6",
+    "x-amz-cf-id": "c5RBYm6r9Al7xub-PnLJ6P4LhrpZpq2EuU8kY7uUUt5g0_AOb60VFQ==",
+    "x-amz-cf-pop": "ZRH50-C1",
+    "vary": "Accept-Encoding, Origin",
+    "accept-ranges": "bytes",
+    "date": "Thu, 02 Feb 2023 11:18:22 GMT"
+  },
+  "url": "https://deno.land/x/windmill@v1.61.1/windmill-api/core/CancelablePromise.ts",
+  "now": {
+    "secs_since_epoch": 1675425016,
+    "nanos_since_epoch": 398863044
+  }
+}

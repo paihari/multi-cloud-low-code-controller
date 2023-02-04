@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "vary": "Accept-Encoding",
+    "date": "Fri, 03 Feb 2023 11:50:17 GMT",
+    "via": "http/2 edgeproxy-h",
+    "access-control-allow-origin": "*",
+    "server": "deno/gcp-europe-west6",
+    "x-deno-warning": "Implicitly using latest version (0.176.0) for https://deno.land/std/node/net.ts",
+    "location": "/std@0.176.0/node/net.ts"
+  },
+  "url": "https://deno.land/std/node/net.ts",
+  "now": {
+    "secs_since_epoch": 1675425017,
+    "nanos_since_epoch": 852980295
+  }
+}

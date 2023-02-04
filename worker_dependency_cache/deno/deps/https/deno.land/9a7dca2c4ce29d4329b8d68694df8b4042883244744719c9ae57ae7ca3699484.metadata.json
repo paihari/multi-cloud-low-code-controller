@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "server": "deno/gcp-europe-west6",
+    "via": "http/2 edgeproxy-h",
+    "location": "/x/sail_lru_cache@v7.10.3/mod.ts",
+    "access-control-allow-origin": "*",
+    "x-deno-warning": "Implicitly using latest version (v7.10.3) for https://deno.land/x/sail_lru_cache/mod.ts",
+    "vary": "Accept-Encoding",
+    "date": "Fri, 03 Feb 2023 11:50:17 GMT"
+  },
+  "url": "https://deno.land/x/sail_lru_cache/mod.ts",
+  "now": {
+    "secs_since_epoch": 1675425017,
+    "nanos_since_epoch": 996693128
+  }
+}

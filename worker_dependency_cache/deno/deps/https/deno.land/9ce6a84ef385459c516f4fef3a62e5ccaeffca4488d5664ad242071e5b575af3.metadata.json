@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-length": "5449",
+    "access-control-allow-origin": "*",
+    "age": "88316",
+    "content-type": "application/typescript; charset=utf-8",
+    "etag": "\"ac1b8f98b93f4a907906228e5a55ec8f\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-amz-replication-status": "COMPLETED",
+    "date": "Thu, 02 Feb 2023 11:18:22 GMT",
+    "server": "deno/gcp-europe-west6",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-cf-pop": "ZRH50-C1",
+    "accept-ranges": "bytes",
+    "last-modified": "Tue, 31 Jan 2023 19:03:51 GMT",
+    "x-amz-version-id": "ghzsMpMq91a3RzRgJNA996GJwBQbX8EV",
+    "via": "http/2 edgeproxy-h",
+    "x-cache": "Hit from cloudfront",
+    "vary": "Accept-Encoding, Origin",
+    "x-amz-cf-id": "uyjnp6IZKOyzS4ErlFWMGKKrAj8tZKtl3HeOTM_aU4EZSNUkaNJWaw=="
+  },
+  "url": "https://deno.land/x/windmill@v1.61.1/windmill-api/services/ScheduleService.ts",
+  "now": {
+    "secs_since_epoch": 1675425017,
+    "nanos_since_epoch": 102270836
+  }
+}

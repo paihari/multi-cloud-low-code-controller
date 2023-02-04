@@ -1,0 +1,25 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "vary": "Accept-Encoding, Origin",
+    "x-amz-replication-status": "COMPLETED",
+    "etag": "W/\"edaf688b4ab908ed16c171ea6208c743\"",
+    "last-modified": "Sat, 28 Jan 2023 12:28:31 GMT",
+    "cache-control": "public, max-age=31536000, immutable",
+    "via": "http/2 edgeproxy-h",
+    "x-amz-cf-id": "4w2RoR09PCrZag6Nk2Xw9XeQfl0le4liyEfoXnxvimvtWVhAu_e9TA==",
+    "x-amz-cf-pop": "ZRH50-C1",
+    "x-cache": "Hit from cloudfront",
+    "date": "Sat, 28 Jan 2023 13:21:17 GMT",
+    "server": "deno/gcp-europe-west6",
+    "age": "512941",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "content-type": "application/javascript",
+    "x-amz-version-id": "L_DQxRpImkPLvK8Hl4hJdXOHAlxZfAOL"
+  },
+  "url": "https://deno.land/std@0.175.0/node/internal/validators.mjs",
+  "now": {
+    "secs_since_epoch": 1675425017,
+    "nanos_since_epoch": 781095045
+  }
+}

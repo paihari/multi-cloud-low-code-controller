@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-amz-version-id": "zPPAColTg5Mh_1EzmPodmiTYCLLlIQCB",
+    "server": "deno/gcp-europe-west6",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-type": "application/typescript; charset=utf-8",
+    "date": "Thu, 02 Feb 2023 11:18:22 GMT",
+    "content-length": "236",
+    "via": "http/2 edgeproxy-h",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "\"55b7bb8161b49b474bc437a0bb0040bf\"",
+    "x-amz-cf-pop": "ZRH50-C1",
+    "vary": "Accept-Encoding, Origin",
+    "x-amz-cf-id": "pOAKVJdsqQ_09RnAWYnVWcnKJ3sQBb8nLYVjjQ--wLw9Iw5xCiMZ1A==",
+    "x-amz-replication-status": "COMPLETED",
+    "access-control-allow-origin": "*",
+    "age": "88315",
+    "last-modified": "Tue, 31 Jan 2023 19:03:51 GMT",
+    "accept-ranges": "bytes",
+    "x-cache": "Hit from cloudfront"
+  },
+  "url": "https://deno.land/x/windmill@v1.61.1/windmill-api/core/ApiResult.ts",
+  "now": {
+    "secs_since_epoch": 1675425017,
+    "nanos_since_epoch": 182234128
+  }
+}

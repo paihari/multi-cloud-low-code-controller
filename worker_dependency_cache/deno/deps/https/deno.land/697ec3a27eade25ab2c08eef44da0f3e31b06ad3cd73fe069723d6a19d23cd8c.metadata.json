@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "location": "/std@0.176.0/node/string_decoder.ts",
+    "vary": "Accept-Encoding",
+    "server": "deno/gcp-europe-west6",
+    "via": "http/2 edgeproxy-h",
+    "access-control-allow-origin": "*",
+    "date": "Fri, 03 Feb 2023 11:50:19 GMT",
+    "x-deno-warning": "Implicitly using latest version (0.176.0) for https://deno.land/std/node/string_decoder.ts"
+  },
+  "url": "https://deno.land/std/node/string_decoder.ts",
+  "now": {
+    "secs_since_epoch": 1675425019,
+    "nanos_since_epoch": 877253963
+  }
+}

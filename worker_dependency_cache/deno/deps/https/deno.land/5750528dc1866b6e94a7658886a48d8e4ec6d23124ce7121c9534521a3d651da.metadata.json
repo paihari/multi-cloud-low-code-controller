@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "last-modified": "Thu, 02 Feb 2023 13:30:17 GMT",
+    "age": "79750",
+    "date": "Thu, 02 Feb 2023 13:41:09 GMT",
+    "x-amz-version-id": "4BX52NcHeqfnX3ZaqMBOaCDYtXKzAl2X",
+    "x-amz-replication-status": "PENDING",
+    "content-type": "application/typescript; charset=utf-8",
+    "vary": "Accept-Encoding, Origin",
+    "accept-ranges": "bytes",
+    "cache-control": "public, max-age=31536000, immutable",
+    "via": "http/2 edgeproxy-h",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "server": "deno/gcp-europe-west6",
+    "etag": "\"5d8d48cb0d16de048bdc8d2779e6e758\"",
+    "access-control-allow-origin": "*",
+    "x-cache": "Hit from cloudfront",
+    "content-length": "8991",
+    "x-amz-cf-id": "AsYdgv9CqCuFM1LCZ_zkfNeDLSTumEG7uCczKarbajKvmDwgkREDxQ==",
+    "x-amz-cf-pop": "ZRH50-C1"
+  },
+  "url": "https://deno.land/std@0.176.0/node/internal/crypto/diffiehellman.ts",
+  "now": {
+    "secs_since_epoch": 1675425019,
+    "nanos_since_epoch": 269081921
+  }
+}

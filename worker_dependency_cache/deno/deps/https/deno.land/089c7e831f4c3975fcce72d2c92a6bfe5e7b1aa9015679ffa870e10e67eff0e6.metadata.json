@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "location": "/std@0.176.0/node/zlib.ts",
+    "vary": "Accept-Encoding",
+    "x-deno-warning": "Implicitly using latest version (0.176.0) for https://deno.land/std/node/zlib.ts",
+    "date": "Fri, 03 Feb 2023 11:50:17 GMT",
+    "server": "deno/gcp-europe-west6",
+    "via": "http/2 edgeproxy-h"
+  },
+  "url": "https://deno.land/std/node/zlib.ts",
+  "now": {
+    "secs_since_epoch": 1675425017,
+    "nanos_since_epoch": 851039295
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "location": "/x/sail_denque@v1.0.0/mod.ts",
+    "access-control-allow-origin": "*",
+    "date": "Fri, 03 Feb 2023 11:50:17 GMT",
+    "server": "deno/gcp-europe-west6",
+    "vary": "Accept-Encoding",
+    "via": "http/2 edgeproxy-h",
+    "x-deno-warning": "Implicitly using latest version (v1.0.0) for https://deno.land/x/sail_denque/mod.ts"
+  },
+  "url": "https://deno.land/x/sail_denque/mod.ts",
+  "now": {
+    "secs_since_epoch": 1675425017,
+    "nanos_since_epoch": 995268587
+  }
+}

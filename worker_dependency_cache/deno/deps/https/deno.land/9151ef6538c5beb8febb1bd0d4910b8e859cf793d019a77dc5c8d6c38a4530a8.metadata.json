@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "location": "/x/iconv_lite@v1.0.2/mod.ts",
+    "access-control-allow-origin": "*",
+    "vary": "Accept-Encoding",
+    "date": "Fri, 03 Feb 2023 11:50:17 GMT",
+    "via": "http/2 edgeproxy-h",
+    "server": "deno/gcp-europe-west6",
+    "x-deno-warning": "Implicitly using latest version (v1.0.2) for https://deno.land/x/iconv_lite/mod.ts"
+  },
+  "url": "https://deno.land/x/iconv_lite/mod.ts",
+  "now": {
+    "secs_since_epoch": 1675425017,
+    "nanos_since_epoch": 997611587
+  }
+}

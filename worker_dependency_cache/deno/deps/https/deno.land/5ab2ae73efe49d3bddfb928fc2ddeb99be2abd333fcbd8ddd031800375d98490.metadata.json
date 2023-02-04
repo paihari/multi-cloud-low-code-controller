@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-amz-version-id": "B5y6ZlNL1WlRgqb6W7E4ioTjNawufncg",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-replication-status": "COMPLETED",
+    "x-amz-cf-id": "bp1ct2DrPulbpKE8iyfElmnRxC665Qag5SKIrMFNtA2FuTqeVaLZtg==",
+    "last-modified": "Tue, 31 Jan 2023 19:03:51 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "\"152bb45c188cce759f850a34b04e62ae\"",
+    "content-length": "30321",
+    "x-amz-cf-pop": "ZRH50-C1",
+    "accept-ranges": "bytes",
+    "via": "http/2 edgeproxy-h",
+    "access-control-allow-origin": "*",
+    "date": "Thu, 02 Feb 2023 11:18:22 GMT",
+    "server": "deno/gcp-europe-west6",
+    "vary": "Accept-Encoding, Origin",
+    "age": "88316",
+    "x-cache": "Hit from cloudfront",
+    "content-type": "application/typescript; charset=utf-8"
+  },
+  "url": "https://deno.land/x/windmill@v1.61.1/windmill-api/services/JobService.ts",
+  "now": {
+    "secs_since_epoch": 1675425017,
+    "nanos_since_epoch": 186099045
+  }
+}

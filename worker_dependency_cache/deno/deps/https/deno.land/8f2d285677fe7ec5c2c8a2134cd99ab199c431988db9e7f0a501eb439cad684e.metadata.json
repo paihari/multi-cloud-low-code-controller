@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Thu, 02 Feb 2023 11:18:22 GMT",
+    "x-cache": "Hit from cloudfront",
+    "server": "deno/gcp-europe-west6",
+    "x-amz-replication-status": "COMPLETED",
+    "access-control-allow-origin": "*",
+    "x-amz-cf-pop": "ZRH50-C1",
+    "via": "http/2 edgeproxy-h",
+    "accept-ranges": "bytes",
+    "content-length": "352",
+    "etag": "\"9b7e472efdd900a7d4fc113da55b0631\"",
+    "last-modified": "Tue, 31 Jan 2023 19:03:51 GMT",
+    "x-amz-cf-id": "S8ieGHEoE9ys-Z24LMJ2tf0BLAUY4zlPVDtnsCpZVfdJylDm6UYivg==",
+    "cache-control": "public, max-age=31536000, immutable",
+    "x-amz-version-id": "NoP.dAXyI50pVwwnqjh256gi42I5zKoU",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "content-type": "application/typescript; charset=utf-8",
+    "vary": "Accept-Encoding, Origin",
+    "age": "88315"
+  },
+  "url": "https://deno.land/x/windmill@v1.61.1/windmill-api/models/ForloopFlow.ts",
+  "now": {
+    "secs_since_epoch": 1675425016,
+    "nanos_since_epoch": 723243461
+  }
+}

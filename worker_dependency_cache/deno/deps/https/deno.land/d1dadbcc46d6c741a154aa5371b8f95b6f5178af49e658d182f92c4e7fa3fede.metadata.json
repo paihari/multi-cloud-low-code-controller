@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "location": "/std@0.176.0/node/crypto.ts",
+    "via": "http/2 edgeproxy-h",
+    "access-control-allow-origin": "*",
+    "vary": "Accept-Encoding",
+    "x-deno-warning": "Implicitly using latest version (0.176.0) for https://deno.land/std/node/crypto.ts",
+    "date": "Fri, 03 Feb 2023 11:50:17 GMT",
+    "server": "deno/gcp-europe-west6"
+  },
+  "url": "https://deno.land/std/node/crypto.ts",
+  "now": {
+    "secs_since_epoch": 1675425017,
+    "nanos_since_epoch": 854444837
+  }
+}

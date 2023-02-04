@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "via": "http/2 edgeproxy-h",
+    "x-deno-warning": "Implicitly using latest version (0.176.0) for https://deno.land/std/node/internal/errors.ts",
+    "vary": "Accept-Encoding",
+    "date": "Fri, 03 Feb 2023 11:50:17 GMT",
+    "access-control-allow-origin": "*",
+    "location": "/std@0.176.0/node/internal/errors.ts",
+    "server": "deno/gcp-europe-west6"
+  },
+  "url": "https://deno.land/std/node/internal/errors.ts",
+  "now": {
+    "secs_since_epoch": 1675425017,
+    "nanos_since_epoch": 853450920
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "etag": "\"477e54265f936f58eec6223e00eedc4e\"",
+    "x-amz-cf-pop": "ZRH50-C1",
+    "x-amz-cf-id": "3PKkRiE9rT57CFEBVtgKAUIWmnf1NrNFdNXFI-0XXbZMUU32TUGh1Q==",
+    "age": "88315",
+    "access-control-allow-origin": "*",
+    "x-amz-replication-status": "COMPLETED",
+    "x-amz-version-id": "9BroJN2is5TXcJ9_Wfjiq3NAaQVSogOH",
+    "server": "deno/gcp-europe-west6",
+    "via": "http/2 edgeproxy-h",
+    "date": "Thu, 02 Feb 2023 11:18:22 GMT",
+    "accept-ranges": "bytes",
+    "vary": "Accept-Encoding, Origin",
+    "x-cache": "Hit from cloudfront",
+    "cache-control": "public, max-age=31536000, immutable",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "content-type": "application/typescript; charset=utf-8",
+    "last-modified": "Tue, 31 Jan 2023 19:03:51 GMT",
+    "content-length": "244"
+  },
+  "url": "https://deno.land/x/windmill@v1.61.1/windmill-api/models/FlowValue.ts",
+  "now": {
+    "secs_since_epoch": 1675425016,
+    "nanos_since_epoch": 672865295
+  }
+}

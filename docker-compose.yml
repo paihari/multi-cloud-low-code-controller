@@ -7,7 +7,7 @@ services:
     image: postgres:14
     restart: unless-stopped
     volumes:
-      - db_data:/var/lib/postgresql/data
+      - ./db_data:/var/lib/postgresql/data
     ports:
       - 5432:5432
       # NOTE: if port 5432 are already in use locally, we'll also bind another port
@@ -55,7 +55,7 @@ services:
         condition: service_healthy
     # to mount the worker folder to debug,, KEEP_JOB_DIR=true and mount /tmp/windmill
     volumes:
-      - worker_dependency_cache:/tmp/windmill/cache
+      - ./worker_dependency_cache:/tmp/windmill/cache
       - ~/.aws/:/root/.aws:ro  
       # - ./oauth.json/:/usr/src/app/oauth.json
 

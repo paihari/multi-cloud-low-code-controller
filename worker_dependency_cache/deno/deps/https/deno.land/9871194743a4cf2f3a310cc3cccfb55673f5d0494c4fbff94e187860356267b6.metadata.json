@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-deno-warning": "Implicitly using latest version (0.176.0) for https://deno.land/std/node/events.ts",
+    "server": "deno/gcp-europe-west6",
+    "access-control-allow-origin": "*",
+    "via": "http/2 edgeproxy-h",
+    "vary": "Accept-Encoding",
+    "location": "/std@0.176.0/node/events.ts",
+    "date": "Fri, 03 Feb 2023 11:50:17 GMT"
+  },
+  "url": "https://deno.land/std/node/events.ts",
+  "now": {
+    "secs_since_epoch": 1675425017,
+    "nanos_since_epoch": 853971337
+  }
+}
