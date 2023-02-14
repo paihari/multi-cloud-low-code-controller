@@ -57,6 +57,7 @@ services:
     volumes:
       - ./worker_dependency_cache:/tmp/windmill/cache
       - ~/.aws/:/root/.aws:ro  
+      - ~/.oci/:/root/.oci:ro  
       # - ./oauth.json/:/usr/src/app/oauth.json
 
   lsp:
