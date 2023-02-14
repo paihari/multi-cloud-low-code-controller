@@ -5,6 +5,7 @@
 
 ## Pre-requisite 
 > .aws config with credentials in HOME dir
+
 > .oci config with credentials in HOME dir
 
 ## How to test
